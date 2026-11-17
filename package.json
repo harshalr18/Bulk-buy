@@ -1,0 +1,11 @@
+{
+  "name": "bulkbuy-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix bulkbuy run dev",
+    "dev:client": "npm --prefix bulkbuy run dev:client",
+    "dev:server": "npm --prefix bulkbuy run dev:server",
+    "server": "npm --prefix bulkbuy run server",
+    "build": "npm --prefix bulkbuy run build"
+  }
+}
